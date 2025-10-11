@@ -1,4 +1,4 @@
-# Privacy Sandbox Developer Support
+Privacy Sandbox Developer Support
 
 The Privacy Sandbox initiative aims to create technologies that both protect people's privacy online and give companies and developers tools to build thriving digital businesses. The Privacy Sandbox aims to help sites reduce cross-site and cross-app tracking while helping to keep online content and services free for all.
 
