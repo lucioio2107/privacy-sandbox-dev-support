@@ -73,17 +73,16 @@ Note: This page is primarily focused on **non-advertising** use cases such as pa
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | <!-- copy this row and insert above this line -->  | <!-- Status goes here -->  | <!-- Add a link to more information -->  | <!-- How can we contact you? -->  | <!-- Do sites using your service need to do anything? True/False --> | <!--comma separated domains that set cookies, like example.com, example.net --> |
 
-### Anti-Fraud and Anti-Abuse
 
 *For example: a security or anti-fraud vendor*
 
 | Company / Party / Service | State of 3PCD readiness | Link to more information or documentation | How to contact you | Action required | Cookie domains |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| [reCAPTCHA V2](https://developers.google.com/recaptcha/docs/display) | No action needed by sites. Service is compatible with 3PCD. |  | [reCAPTCHA Help Center](https://support.google.com/recaptcha/?hl=en) |  |  |
-| [reCAPTCHA V3](https://developers.google.com/recaptcha/docs/v3) | No action needed by sites. Service is compatible with 3PCD. |  | [reCAPTCHA Help Center](https://support.google.com/recaptcha/?hl=en) |  |  |
-| [reCAPTCHA Enterprise](https://cloud.google.com/recaptcha-enterprise/docs) | No action needed by sites. Service is compatible with 3PCD. |  | [reCAPTCHA Enterprise Help](https://cloud.google.com/recaptcha-enterprise/docs/getting-support) |  |  |
+| (https://developers.google.com/docs/display) | No action needed by sites. Service is compatible with 3PCD. |  | [reCAPTCHA Help Center](https://support.google.com/recaptcha/?hl=en) |  |  |
+| (https://developers.google.com/docs/v3) | No action needed by sites. Service is compatible with 3PCD. |
+| (https://cloud.google.com/enterprise/docs) | No action needed by sites. Service is compatible with 3PCD. |  |(tal https://cloud.google.com/enterprise/docs/getting-support) |  |  |
 | [br.clear.sale/](https://br.clear.sale/) | Temporary mitigations applied. No site changes required during the [deprecation trial](https://developers.google.com/privacy-sandbox/3pcd/temporary-exceptions/third-party-deprecation-trial#deprecation_trials), updates may be necessary post-trial. | [Api Documentation](https://api.clearsale.com.br/docs/behavior-analytics) | [contact](mailto:integracao@clear.sale?subject=Behavior&nbsp;3PCD&nbsp;doubts) |  |  |
-| <!-- copy this row and insert above this line -->  | <!-- Status goes here -->  | <!-- Add a link to more information -->  | <!-- How can we contact you? -->  | <!-- Do sites using your service need to do anything? True/False --> | <!--comma separated domains that set cookies, like example.com, example.net --> |
+| <!-- copy this row and insert above this line -->  | <!-- Status goes here -->  | <!-- Add a link to more information -->  | <!-- How can we contact you? -->  | <!-- Do sites using your service need to do anything? True
 
 ### Analytics and Business Tools
 
@@ -93,16 +92,12 @@ Note: This page is primarily focused on **non-advertising** use cases such as pa
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | [Chartbeat \- Heads Up Display](https://chartbeat.com/products/optimization/) | Temporary mitigations applied with a long-term solution in progress. No site changes are expected to be required. | [HUD Documentation](https://help.chartbeat.com/hc/en-us/sections/201761058-Heads-Up-Display) | [Support](mailto:support@chartbeat.com?subject=hud&nbsp;3PCD) |  |  |
 |[Mather Economics](https://www.mathereconomics.com/), <br>[Listener First Party Data Platform](https://www.mathereconomics.com/listener-mathers-data-analytics-platform/), & <br>[Sophi AI](https://www.mathereconomics.com/sophi-start/)  | Prepared for 3PCD. All Mather Economics and Sophi clients will not be impacted. All of Mather Economics products and services use first party data and are integrated directly in collaboration with our clients.  | [Privacy Policy - Mather Economics](https://www.mathereconomics.com/privacy-policy/) <br>[Content Paywall (2.0) (sophi.io)](https://resources.sophi.io/integrations/docs)  | info@mathereconomics.com  |  |  |
-| <!-- copy this row and insert above this line -->  | <!-- Status goes here -->  | <!-- Add a link to more information -->  | <!-- How can we contact you? -->  | <!-- Do sites using your service need to do anything? True/False --> | <!--comma separated domains that set cookies, like example.com, example.net --> |
 
-### Other
-
-*Anything that doesn't fit into the above categories*
 
 | Company / Party / Service | State of 3PCD readiness | Link to more information or documentation | How to contact you | Action required | Cookie domains |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| [br.clear.sale/](https://br.clear.sale/) | Temporary mitigations applied. No site changes required during the [deprecation trial](https://developers.google.com/privacy-sandbox/3pcd/temporary-exceptions/third-party-deprecation-trial#deprecation_trials), updates may be necessary post-trial. | [Api Documentation](https://api.clearsale.com.br/docs/behavior-analytics) | [contact](mailto:integracao@clear.sale?subject=Behavior%203PC%20doubts) |  |  |
-| [Lunio](https://lunio.ai/) | No reliance on 3PCs | [Cookieless Product Overview](https://lunio.ai/product/) | [Support](https://lunio.ai/about-us/contact/) |  |  |
+| (https://br.clear.sale/) | Temporary mitigations applied. No site changes required during the [deprecation trial](https://developers.google.com/privacy-sandbox/3pcd/temporary-exceptions/third-party-deprecation-trial#deprecation_trials), updates may be necessary post-trial. | [Api Documentation](https://api.clearsale.com.br/docs/behavior-analytics) | [contact](mailto:integracao@clear.sale?subject=Behavior%203PC%20doubts) |  |  |
+| (https://lunio.ai/) | No reliance on 3PCs | (https://lunio.ai/product/) | [Support](https://lunio.ai/about-us/contact/) |  |  |
 | [WordPress VIP](https://wpvip.com/) & [rtCamp](https://rtcamp.com/) | Prepared for 3PCD and offering audits to help businesses evaluate and understand the impact of third-party cookie deprecation | [WordPress VIP and rtCamp Partner to Help Businesses Adapt to New Web Privacy Standards](https://wpvip.com/2024/02/21/vip-rtcamp-privacy-sandbox/) | [Get your free audit](https://wpvip.com/website-audit-and-cookie-analysis/) |  |  |
-| [Plumrocket](https://plumrocket.com/) | Ready for 3PC deprecation. Conducting cookie audits to help businesses identify issues related to 3PC deprecation and adapt to the changes. | [Third-Party Cookie Audit](https://plumrocket.com/blog/privacy-sandbox) | [Get Audit](https://plumrocket.com/contacts) |  |  |
-| <!-- copy this row and insert above this line -->  | <!-- Status goes here -->  | <!-- Add a link to more information -->  | <!-- How can we contact you? -->  | <!-- Do sites using your service need to do anything? True/False --> | <!--comma separated domains that set cookies, like example.com, example.net --> |
+| [Plumrocket](https://plumrocket.com/) | Ready for 3PC deprecation. Conducting cookie audits to help businesses identify issues related to 3PC deprecation and adapt to the changes. | (https://plumrocket.com/blog/privacy-sandbox) | [Get Audit](https://plumrocket.com/contacts) |  |  |
+| <!-- copy this row and insert above this line -->  | <!-- Status goes here -->  | <!-- Add a link to more information -->  | <!-- How can we contact you? -->  | <!-- Do sites using your service need to do anything? True--> | <!--comma separated domains that set cookies, like example.com, example.net --> |
