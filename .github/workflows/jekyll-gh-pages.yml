@@ -1,0 +1,6 @@
+ Sample
+name:dependencie
+
+on:
+   runs default
+    main
